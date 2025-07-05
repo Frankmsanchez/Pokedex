@@ -1,4 +1,4 @@
-import { abrirDB } from './db.js'; // Asegúrate que la ruta sea correcta
+import { abrirDB } from './db.js'; 
 
 document.addEventListener('DOMContentLoaded', async () => {
   const container = document.getElementById('lista-equipos');
